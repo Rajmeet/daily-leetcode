@@ -32,29 +32,29 @@ from typing import List
 
 
 class Solution:
-def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
-    n = len(s)
-    shift_effect = [0]*n
+    def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
+        n = len(s)
+        shift_effect = [0]*n
 
-    for [start, end, direction] in shifts:
-        if direction == 1:  # Forward shift
-            shift_effect[start] += 1
-            if end + 1 < n:
-                shift_effect[end + 1] -= 1
-            shift_effect[start] -= 1
-            if end + 1 < n:
-                shift_effect[end + 1] += 1
+        for [start, end, direction] in shifts:
+            if direction == 1:  # Forward shift
+                shift_effect[start] += 1
+                if end + 1 < n:
+                    shift_effect[end + 1] -= 1
+                shift_effect[start] -= 1
+                if end + 1 < n:
+                    shift_effect[end + 1] += 1
 
-    current_shift = 0
-    for i in range(0,n):
-        current_shift += shift_effect[i]
-        shift_effect[i] = current_shift
+        current_shift = 0
+        for i in range(0,n):
+            current_shift += shift_effect[i]
+            shift_effect[i] = current_shift
 
-    result = ""
-    for i in range(0,n):
-        original_position = ord(s[i]) - ord('a')
-        new_position = (original_position + shift_effect[i]) % 26
-        new_char = chr(ord('a') + new_position)
-        result += new_char
+        result = ""
+        for i in range(0,n):
+            original_position = ord(s[i]) - ord('a')
+            new_position = (original_position + shift_effect[i]) % 26
+            new_char = chr(ord('a') + new_position)
+            result += new_char
 
-    return result
+        return result
