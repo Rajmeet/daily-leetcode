@@ -9,3 +9,5 @@ Leetcoding every day
 [x] Day 4: 1930. Unique Length-3 Palindromic Subsequences
 
 [x] Day 5: 2381. Shifting Letters II
+
+[x] Day 6: 1769. Minimum Number of Operations to Move All Balls to Each Box
