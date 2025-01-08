@@ -13,3 +13,5 @@ Leetcoding every day
 [x] Day 6: 1769. Minimum Number of Operations to Move All Balls to Each Box
 
 [x] Day 7: 1408. String Matching in an Array
+
+[x] Day 8: 3042. Count Prefix and Suffix Pairs I
