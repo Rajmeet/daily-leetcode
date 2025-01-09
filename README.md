@@ -15,3 +15,5 @@ Leetcoding every day
 [x] Day 7: 1408. String Matching in an Array
 
 [x] Day 8: 3042. Count Prefix and Suffix Pairs I
+
+[x] Day 9: 2185. Counting Words With a Given Prefix
