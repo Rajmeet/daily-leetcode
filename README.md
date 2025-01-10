@@ -17,3 +17,5 @@ Leetcoding every day
 [x] Day 8: 3042. Count Prefix and Suffix Pairs I
 
 [x] Day 9: 2185. Counting Words With a Given Prefix
+
+[x] Day 10: 916. Word Subsets
