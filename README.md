@@ -19,3 +19,7 @@ Leetcoding every day
 [x] Day 9: 2185. Counting Words With a Given Prefix
 
 [x] Day 10: 916. Word Subsets
+
+[x] Day 11: 1400. Construct K Palindrome Strings
+
+[x] Day 12: 2116. Check if a Parentheses String Can Be Valid
