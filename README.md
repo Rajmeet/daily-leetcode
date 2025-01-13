@@ -23,3 +23,5 @@ Leetcoding every day
 [x] Day 11: 1400. Construct K Palindrome Strings
 
 [x] Day 12: 2116. Check if a Parentheses String Can Be Valid
+
+[x] Day 13: 3223. Minimum Length of String After Operations
