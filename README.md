@@ -27,3 +27,5 @@ Leetcoding every day
 [x] Day 13: 3223. Minimum Length of String After Operations
 
 [x] Day 14: 2657. Find the Prefix Common Array of Two Arrays
+
+[x] Day 15: 2429. Minimize XOR
