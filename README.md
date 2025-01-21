@@ -31,3 +31,13 @@ Leetcoding every day
 [x] Day 15: 2429. Minimize XOR
 
 [x] Day 16: 2425. Bitwise XOR of All Pairings
+
+[x] Day 17: 2683. Neighboring Bitwise XOR
+
+[x] Day 18: 1368. Minimum Cost to Make at Least One Valid Path in a Grid
+
+[-] Day 19: 407. Trapping Rain Water II
+
+[-] Day 20: 2661. First Completely Painted Row or Column
+
+[-] Day 21: Grid Game
