@@ -41,3 +41,5 @@ Leetcoding every day
 [-] Day 20: 2661. First Completely Painted Row or Column
 
 [-] Day 21: Grid Game
+
+[x] Day 22: 1765. Map of Highest Peak
